@@ -1,0 +1,73 @@
+#CSS CODE FOR CRICKETER PAGE
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top-card-container {
+    background-color: #fb4e71;
+}
+
+.top-card-color {
+    color: #ffffff;
+    padding: 10px;
+}
+
+.bg-img {
+    height: 150px;
+    width: 100px;
+}
+
+.bottom-section-bg {
+    background-color: #e6f6ff;
+    height: 100vh;
+    background-size: cover;
+}
+
+.bottom-card {
+    background-color: #ffffff;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.font {
+    font-family: "Roboto";
+}
+
+.pd {
+    padding: 5px;
+    justify-content: space-between;
+}
+
+.bd {
+    font-weight: bold;
+}
+
+.ipl-head {
+    font-size: 16px;
+}
+
+.last-card {
+    margin: 10px;
+}
+
+.last-font {
+    font-size: 12px;
+}
+
+.button {
+    color: #ffffff;
+    border-width: 0px;
+
+}
+
+.col2 {
+    color: #888888;
+}
+
+.mg {
+    margin: 10px;
+    font-size: 13px;
+    padding: 10px;
+}
+
+.highlightOfPlayers{
+    font-size:15px;
+}
